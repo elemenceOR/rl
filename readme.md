@@ -93,6 +93,9 @@ This project evolved through several distinct versions, identifying and resolvin
 
 ### Curriculum Learning Strategy
 
+<img width="1536" height="754" alt="14" src="https://github.com/user-attachments/assets/2a42ec09-430d-4337-9f55-cb1b4729777b" />
+
+
 To overcome the sparse reward problem (learning to brake before learning to travel), training is divided into three phases:
 
 1. **Phase 1: Stabilization (500k Steps):** Target is fixed at 0.0m. Agent learns to balance the inverted pendulum dynamics.
