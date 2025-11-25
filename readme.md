@@ -129,6 +129,8 @@ The final agent (Version 5.0) demonstrates behavior consistent with expert human
 
 ### Performance Metrics (Step Response to 5.0m)
 
+![crane](https://github.com/user-attachments/assets/d1ff31e9-b018-42ca-9978-9b03b8fd0627)
+
 - **Rise Time:** ~7 seconds
 - **Settling Time:** ~25 seconds
 - **Steady State Error:** 0.00 meters
